@@ -1,11 +1,11 @@
 ---
 layout: page
-title: kernel panic
+title: Kernel Panic
 tagline: 
 ---
 {% include JB/setup %}
 
-Here's a sample "posts list".
+Recent posts:
 
 <ul class="posts">
   {% for post in site.posts %}
