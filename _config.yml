@@ -62,7 +62,7 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   douban_path : /douban.html
-  wiki_path : /wiki/index.md
+  wiki_path : /wiki/index.html
   pages_path : /pages.html
 
   # Settings for comments helper
