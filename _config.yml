@@ -69,7 +69,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : hewigovens
+      short_name : kernelpanicim
     livefyre :
       site_id : 123
     intensedebate :
