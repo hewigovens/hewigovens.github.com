@@ -15,6 +15,18 @@
    <!-- Typekit -->
    <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+   <!-- Put the following javascript before the closing </head> tag. -->
+   <script>
+   (function() {
+   var cx = '012203587392241895970:5lnnrnbrhig';
+   var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+   gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+   '//www.google.com/cse/cse.js?cx=' + cx;
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+   })();
+   </script>
 </head>
 <body>
 
@@ -28,6 +40,9 @@
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}">Tags</a>
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.douban_path }}">Douban</a>
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.wiki_path }}">Wiki</a>
+      
+      <!-- Place this tag where you want both of the search box and the search results to render -->
+      <!--<gcse:search></gcse:search>-->
     </div>
   
     {{ content }}

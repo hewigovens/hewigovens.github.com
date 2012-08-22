@@ -5,7 +5,7 @@ auto: true
 pygments: true
 markdown: rdiscount
 
-title : kernel panic
+title : Kernel Panic
 tagline: programming/playing for possibility
 author :
   name : hewigovens
