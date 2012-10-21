@@ -5,7 +5,10 @@ title: "迁移到github"
 slug: migrate-to-github
 description: ""
 category: 
-tags: [blog,github,wiki]
+tags:
+- blog
+- github
+- wiki
 ---
 {% include JB/setup %}
 
