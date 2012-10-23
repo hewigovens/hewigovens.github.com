@@ -598,6 +598,11 @@ pre {
   position: relative;
   top: 2px;
 }
+.the-header .search{
+  margin: 0;
+  font-size: 12px;
+}
+.
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
