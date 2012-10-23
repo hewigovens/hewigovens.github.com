@@ -10,12 +10,13 @@ tagline:
 Recent posts:
 
 <ul class="posts">
-    {% assign post = site.posts | first %}
+    {% for post in site.posts limit:1 %}
     <li>
         <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
         </br>
         <span>{{post.content}}</span>
     </li>
+    {% endfor %}
     {% for post in site.posts offset:1%}
     <li>
         <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
