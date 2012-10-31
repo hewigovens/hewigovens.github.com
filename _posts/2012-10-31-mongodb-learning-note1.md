@@ -3,9 +3,9 @@ layout: post
 title: "MongoDB学习笔记(1)"
 description: ""
 category: 
--nosql
+- nosql
 tags:
--mongodb
+- mongodb
 ---
 {% include JB/setup %}
 
@@ -23,6 +23,6 @@ tags:
 * - 默认情况下MongoDB在存储JSON Document的时候会立刻返回，所以可能会fail quitely
 *  mongodump/mongorestore是用来dump和restore db命令
 
-我是直接`brew install mongodb`的，当然也可以直接下载安装。总的来说课程还不错，介绍了MongoDB的基本情况，并且是以实际的bottle+pymongo+mongodb来实现一个blog为主线来讲的，还介绍了一些bottle/python的基本知识。
+我是直接`brew install mongodb`安装的，当然也可以直接下载安装。总的来说课程还不错，介绍了MongoDB的基本情况，并且是以实际的bottle+pymongo+mongodb来实现一个blog为主线来讲的，还介绍了一些bottle/python的基本知识。
 
 唯一想吐槽的地方是，有些视频实际时间很短可以适当合并的。
