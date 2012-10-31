@@ -3,6 +3,7 @@ layout: post
 title: "MongoDB学习笔记(1)"
 description: ""
 category: 
+-nosql
 tags:
 -mongodb
 ---
