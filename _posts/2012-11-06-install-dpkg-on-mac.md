@@ -41,7 +41,7 @@ $ brew install coreutils md5sha1sum
 PATH="$(brew --prefix coreutils)/libexec/gnubin:$PATH"
 {% endhighlight %}
 
-**Step4**. patch dpkg-scanpackages
+**Step4**. patch dpkg-scanpackages  
 生成的Packages中Filename路径不正确，多了个/，需要修改下dpkg-scanpackages
 
 {% highlight bash %} 
