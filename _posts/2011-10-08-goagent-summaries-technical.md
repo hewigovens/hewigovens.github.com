@@ -14,6 +14,10 @@ tags:
 - python
 ---
 
+**2012/11/13 Update**
+
+本文基本过时，最近请参考[GoLang in GoAgent](http://www.slideshare.net/phuslu/golang-in-goagent)
+
 **2011/12/8 Update**
 具体实现细节，请访问goagent-dev之[goagent做了哪些改进？](https://groups.google.com/forum/#!topic/goagent-dev/QLrWFUkdT_0)
 
@@ -22,11 +26,11 @@ GoAgent 一直号称简单快速，不是没有道理的。proxy.py不到800行�
 
 
 > 
-0.代码即程序，Windows下绿色运行，连GAE的sdk都不用装，这得益于先进的打包技术。
-1.实现基本上都是标准库，openssl库也很常见，移植容易。
-2.fetch.php对服务器端的要求较低。需要preg/zlib/curl模块支持，前两个属于标准模块，curl也是常见模块。
-3.合理的默认值，只需要配置appid就可以用了。
-4.不支持gfwlist
+0.代码即程序，Windows下绿色运行，连GAE的sdk都不用装，这得益于先进的打包技术。  
+1.实现基本上都是标准库，openssl库也很常见，移植容易。  
+2.fetch.php对服务器端的要求较低。需要preg/zlib/curl模块支持，前两个属于标准模块，curl也是常见模块。  
+3.合理的默认值，只需要配置appid就可以用了。  
+4.不支持gfwlist  
 
 
 
@@ -34,13 +38,13 @@ GoAgent 另一个原则就是追求速度，不断在优化，看看[ChangeLog](
 
 
 > 
-0.压缩传输，不支持强加密，因为连GMail都被天朝黑客入侵过，保证local到AppEngine的绝对完全并没有太多的意义。。
-1.再如之前整合了gevent或者线程池，为了速度后来又拿掉了；
-2.为了加快启动速度，将读取proxy.ini 放入了全局变量中，代码因此丑陋了；
-3.修正了socket关闭速度慢的问题；
-4.多次重新打包python解释器(proxy.exe)；
-5.简单到极致的GUI，在启动时完成大部分初始化设置并减少if的使用；
-6.为了优化php fetch的规则匹配，干脆将其和GAE的监听端口分开；
+0.压缩传输，不支持强加密，因为连GMail都被天朝黑客入侵过，保证local到AppEngine的绝对完全并没有太多的意义。。  
+1.再如之前整合了gevent或者线程池，为了速度后来又拿掉了；  
+2.为了加快启动速度，将读取proxy.ini 放入了全局变量中，代码因此丑陋了；  
+3.修正了socket关闭速度慢的问题；  
+4.多次重新打包python解释器(proxy.exe)；  
+5.简单到极致的GUI，在启动时完成大部分初始化设置并减少if的使用；  
+6.为了优化php fetch的规则匹配，干脆将其和GAE的监听端口分开；  
 
 
 
