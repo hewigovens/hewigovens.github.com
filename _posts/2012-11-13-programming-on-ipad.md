@@ -55,3 +55,8 @@ Tim Cook说人们喜欢他们的iPad，以至于什么地方都想用上，比�
 直接上效果图： 
 <img src="http://dl.dropbox.com/u/8532717/images/ipad_mobile_terminal_2.jpg" width=640 height=480>
 
+###关于键盘的一些Tips
+* [Avoid escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key)
+* [15 Tips Apple wireless keyboard](http://blog.testfreaks.com/information/15-tips-apple-wireless-keyboard-ipad/)
+* [iPad keyboard shotcuts](http://gigaom.com/apple/ipad-keyboard-shortcuts/)
+
