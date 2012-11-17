@@ -116,7 +116,7 @@ MongoDB内部实际使用的都是BSON，binary格式的JSON超集，而mongo sh
 ###pymongo
 pymongo风格和python基本保持一致，这也可以算做对程序员友好~，比如：
 
-* findOne()在python中就是python_one()
+* findOne()在python中就是find_one()
 * 还有一些参数上的略微不同：比如cursor的sort()，参数是tuple的数组，原因是dict是无序的，这里也是个小陷阱。
 * update()的第三个参数不是json object而是直接`multi=True upsert=True`
 * 一些helper func：save()/find_and_modify()	
