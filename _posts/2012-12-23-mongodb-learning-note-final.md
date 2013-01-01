@@ -14,7 +14,7 @@ tags:
 
 为期7周的M101 MongoDB for Developers上周结束了, 成绩也出来了:
 
-<img src="http://dl.dropbox.com/u/8532717/images/m101_final_score.png" width=640>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/m101_final_score.png" width=640>
 
 Question 7是选错答案了, 因为我只看了计算出来的一串数字的首尾几个数字, 然后就选了; 另外一题则是漏选了~
 
