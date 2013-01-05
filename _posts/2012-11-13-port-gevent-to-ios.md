@@ -31,4 +31,10 @@ GoAgent local从2.x之后，用gevent重写了，一般来说gevent还是比较�
 * - ----这个是Snaury移植的greenlet 0.3.4，关键~  
 * 分别python setup build
 
-当然在Mac上cross compile也是可以的~，稍后会打包成deb或者egg
+当然在Mac上cross compile也是可以的~
+
+##Pre-built binaries
+
+[Download gevent python egg](https://code.google.com/p/goagent/downloads/detail?name=gevent-1.0b4-py2.7-macosx-5.1-iPad3%2C1.egg)
+
+[Download greenlet so](https://code.google.com/p/goagent/downloads/detail?name=greenlet.so)
