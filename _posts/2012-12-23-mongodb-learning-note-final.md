@@ -2,11 +2,10 @@
 layout: post
 title: "MongoDB学习笔记(Final)"
 description: ""
-category:
-- nosql
 tags:
 - mongodb
 - mmoc
+- nosql
 ---
 {% include JB/setup %}
 
