@@ -40,20 +40,20 @@ Tim Cook说人们喜欢他们的iPad，以至于什么地方都想用上，比�
 * JSON Desinger，GUI设计JSON数据结构，好像没什么用?
 * 其他。。。
 
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_codea.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_python.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_jsanywhere.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_vim.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_iconsole.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_github_issues.png" width=384 height=512>
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_json_designer.jpg" width=384 height=512>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_codea.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_python.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_jsanywhere.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_vim.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_iconsole.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_github_issues.png" width=100%>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_json_designer.jpg" width=100%>
 
 ###方案3:Jailbroken iPad + MobileTerminal + Toolchain
 优点：几乎什么都能干(C/C++/Python/Lua/Ruby)  
 缺点：需要越狱  
 
 直接上效果图： 
-<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_mobile_terminal_2.jpg" width=640 height=480>
+<img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/images/ipad_mobile_terminal_2.jpg" width=100%>
 
 ###关于键盘的一些Tips
 * [Avoid escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key)
