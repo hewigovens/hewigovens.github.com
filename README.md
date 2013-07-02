@@ -1,2 +1,3 @@
 ## kernelpanic.im on github
-powered by jekyll & boostrap
+
+blog and [wiki](https://github.com/hewigovens/hewigovens.github.com/wiki) are powered by jekyll & boostrap
