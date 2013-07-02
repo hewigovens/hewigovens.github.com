@@ -1,3 +1,3 @@
-## kernelpanic.im on github
+## kernelpanic.im site
 
-blog and [wiki](https://github.com/hewigovens/hewigovens.github.com/wiki) are powered by jekyll & boostrap
+personal blog and [wiki](https://github.com/hewigovens/hewigovens.github.com/wiki) powered by github & jekyll & boostrap
