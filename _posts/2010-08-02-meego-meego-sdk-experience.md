@@ -19,7 +19,8 @@ tags:
 
 MeeGo项目结合英特尔的Moblin和诺基亚的Maemo, 为下一代计算设备打造了一个基于Linux的开源软件平台。MeeGo软件平台为开发人员的应用程序提供了最大范围的设备选择，包括上网本和入门级桌面设备，便携式计算和通讯设备，车载信息娱乐设备，联网电视，媒体电话等等－均使用共同的开发框架Qt。MeeGo将帮助消费者从不同的设备中获得创新的应用程序体验。MeeGo项目由Linux基金会管理。MeeGo为Linux基金会商标。（来源[MeegoZone中文站](http://meegozone.csdn.net/meego.aspx)）
 
-MeeGo的[MeeGo架构设计](http://meego.com/developers/meego-architecture)，可以去看看，如下图：[![clip_image002](http://kernelpanic.im/blog/wp-content/uploads/2010/08/clip_image002_thumb.gif)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/clip_image002.gif)
+MeeGo的[MeeGo架构设计](http://meego.com/developers/meego-architecture)，可以去看看，如下图：
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/clip_image002_thumb_zps01012d3f.gif.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/clip_image002_thumb_zps01012d3f.gif" width=100% border="0" alt=" photo clip_image002_thumb_zps01012d3f.gif"/></a>
 
 MeeGo很大一个特点是开源，多平台，并交由Linux基金会管理；产品种类可包括笔记型电脑，智慧型手机，小笔电，平板电脑，互联网电视和车载资讯娱乐系统等。为此，诺基亚还分别调整了Symbian和MeeGo的策略与定位，原有的Symbian平台将继续致力于智能手机的大众化（应该是现有的主流S60/S40，之后的Symbian^3/4好像不大现实，首款采用[Symbian^3系统--N8](http://news.mydrivers.com/1/170/170746.htm)报价469欧）MeeGo则主要定位于高端市场。诺基亚收购Qt，将跨平台的开发特性带给了Desktop、Symbian、MeeGo，其中Meego的编程接口,除了QT 4.7 和WRT还有MeeGo多点触摸界面框架(MeeGo Touch UI Framework 简称MTF)。这种开放的姿态很受开发者欢迎，至于消费用户可能就不会这么看了。MeeGo系统目前也未发布什么像样的产品，只是放出了MeeGo-handset/notebook的img镜像，以及Meego SDK。根据[InfoQ上一篇移动开发调查报告](http://www.infoq.com/cn/news/2010/07/Mobile-Survey)，与Iphone/Android高关注相比，MeeGo就像一个仓促上阵的参赛者（两个发行版的整合好像费一些时间，毕竟一个是基于稳定代名词的Debian，另一个则基于“不稳定”代名词的Fedora），在调查报告中都没提到。造成诺基亚的危机主要是在市场占有率常年第一时的不思进取，这和微软最初对待互联网、几年不更新的IE6很像；不过这一次玩的有点大，Symbian系统的用户体验一直没有什么进步，Symbian的开发效率更是让人诟病。。。不过话说回来诺基亚向来是后发先制，UCD大社区有篇文章[相信诺基亚](http://ucdchina.com/snap/7488)，就提到了这个观点，就让时间去证明吧。
 
@@ -29,7 +30,7 @@ MeeGo很大一个特点是开源，多平台，并交由Linux基金会管理；�
 
 a) 处理器：英特尔Atom或32位的Intel Core 2处理器（支持SSSE3）
 
-[![ceI5TrAm0YdZY](http://kernelpanic.im/blog/wp-content/uploads/2010/08/cei5tram0ydzy_thumb.jpg)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/cei5tram0ydzy.jpg)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/cei5tram0ydzy_zps6dc41a0e.jpg.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/cei5tram0ydzy_zps6dc41a0e.jpg" width=100% border="0" alt=" photo cei5tram0ydzy_zps6dc41a0e.jpg"/></a>
 
 b) 显卡：一个兼容的Intel图形芯片组。不支持GMA-500/Nvidia/ATI的芯片组。
 备注：MeeGo将不能在非SSSE3处理器上运行，更多的硬件配置将在系统的后续更新中获得支持。
@@ -43,11 +44,11 @@ lenovo S10、MSI U130、AE1900、[HP](http://www.hbea3w.com/Search.asp?KeyWord=H
 
 2> 如果想在虚拟机上安装Meego，会比较失望，主流的VMWare和VirtualBox均不能显示启动Meego的图形界面，因为不是Intel图形芯片组。不过Meego SDK中的模拟器还是可以启动的，然后可以体验一下meego。在Windows上建议使用VirtualBox，相比于VMWare，virtualbox快多了；在Linux下其实就没有必要用虚拟机了，SDK本身就可以用，如果要安装的话，qemu或者virtualbox都是不错的选择，可以参考[MeeGo Wiki](http://wiki.meego.com/MeeGo_1.0_Netbook_VirtualBox)，下图是Qemu的截图
 
-[![meego-ivi-qemu-011](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meegoiviqemu011_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meegoiviqemu011.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meegoiviqemu011_zps2b5f7a9e.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meegoiviqemu011_zps2b5f7a9e.png" width=100% border="0" alt=" photo meegoiviqemu011_zps2b5f7a9e.png"/></a>
 
 3> 如果在虚拟机上选择“Boot Meego”：会停留在黑屏界面，下面步骤可解决～
 
-[![boot_menu](http://kernelpanic.im/blog/wp-content/uploads/2010/08/boot_menu_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/boot_menu.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/boot_menu_zpseab761df.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/boot_menu_zpseab761df.png" width=100% border="0" alt=" photo boot_menu_zpseab761df.png"/></a>
 
 a) Press ESC when the boot begins to get into GRUB boot menu.
 
@@ -59,7 +60,7 @@ d) After boot is complete, press ALT-F1 to get into console and login using your
 
 e) Type sudo startx to start X11 with TWM :) TWM还是能够启动的，不过相当“简陋”，下图
 
-[![Meego-x11-twm-virtualbox](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meegox11twmvirtualbox_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meegox11twmvirtualbox.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meegox11twmvirtualbox_zpsbd4382c4.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meegox11twmvirtualbox_zpsbd4382c4.png" width=100% border="0" alt=" photo meegox11twmvirtualbox_zpsbd4382c4.png"/></a>
 
 4> 最好不要尝试“Installtion Only”，我试过好几回，安装完成后的第二次重启会一直卡在背景处，连文本模式都进不去，原因不明，如果你找到了解决方法，请告诉我～
 
@@ -94,23 +95,23 @@ xhost && xhost +SI:localuser:[root]
 
 [./meego-sdk-chroot] [./meego-sdk-0524]
 
-[![source_meego](http://kernelpanic.im/blog/wp-content/uploads/2010/08/source_meego_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/source_meego.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/source_meego_zps8ceb9e9d.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/source_meego_zps8ceb9e9d.png" width=100% border="0" alt=" photo source_meego_zps8ceb9e9d.png"/></a>
 
 4> 在Windows下要想体验meego sdk,目前好像只有使用虚拟机安装Linux这一种方法，比如Ubuntu之类的。而我这次安装的是gentoo使用的是install-x86-minimal镜像，光emerge kde-meta就花了三天时间，期间还安装了X，和Virtualbox Guest Addtions，才让它工作正常。所以最好还是安装集成版，或者安装轻量级的X Window。下面是MeeGo模拟器的一些截图，和真机跑效果是差不多的～
 
-[![meego_emu](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_emu_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_emu.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meego_emu_zps096f14e8.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meego_emu_zps096f14e8.png" width=100% border="0" alt=" photo meego_emu_zps096f14e8.png"/></a>
 
 欢迎界面
 
-[![meego_develop](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_develop_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_develop.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meego_develop_zps388fd5ff.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meego_develop_zps388fd5ff.png" width=100% border="0" alt=" photo meego_develop_zps388fd5ff.png"/></a>
 
 应用软件
 
-[![meego_multi_task](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_multi_task_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_multi_task.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meego_multi_task_zps54f263ac.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meego_multi_task_zps54f263ac.png" width=100% border="0" alt=" photo meego_multi_task_zps54f263ac.png"/></a>
 
 多桌面切换
 
-[![meego_device](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_device_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2010/08/meego_device1.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/08/meego_device1_zpsb020268b.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/08/meego_device1_zpsb020268b.png" width=100% border="0" alt=" photo meego_device1_zpsb020268b.png"/></a>
 
 设备界面，由于是模拟器，电池，无线不可用
 

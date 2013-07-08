@@ -25,7 +25,7 @@ tags:
 
  
 
-[![usbmxd](http://kernelpanic.im/blog/wp-content/uploads/2011/01/usbmxd_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/usbmxd.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/usbmxd_zpsaf58be48.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/usbmxd_zpsaf58be48.png" width=100% border="0" alt=" photo usbmxd_zpsaf58be48.png"/></a>
 
  
 
@@ -37,7 +37,7 @@ tags:
 
  
 
-[![daemon_listen](http://kernelpanic.im/blog/wp-content/uploads/2011/01/daemon_listen_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/daemon_listen.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/daemon_listen_zps0eebb8bd.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/daemon_listen_zps0eebb8bd.png" width=100% border="0" alt=" photo daemon_listen_zps0eebb8bd.png"/></a>
 
  
 
@@ -45,7 +45,7 @@ tags:
 
  
 
-[![ssh_ipod](http://kernelpanic.im/blog/wp-content/uploads/2011/01/ssh_ipod_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/ssh_ipod.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/ssh_ipod_zps764e5609.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/ssh_ipod_zps764e5609.png" width=100% border="0" alt=" photo ssh_ipod_zps764e5609.png"/></a>
 
  
 
@@ -53,7 +53,7 @@ python-client的回显，连接建立了
 
  
 
-[![daemon_accept](http://kernelpanic.im/blog/wp-content/uploads/2011/01/daemon_accept_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/daemon_accept.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/daemon_accept_zps6d0518cf.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/daemon_accept_zps6d0518cf.png" width=100% border="0" alt=" photo daemon_accept_zps6d0518cf.png"/></a>
 
  
 
@@ -63,7 +63,7 @@ python-client的回显，连接建立了
 
  
 
-[![Untitled4](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled4_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled4.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/Untitled4_zps8a177e8e.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/Untitled4_zps8a177e8e.png" width=100% border="0" alt=" photo Untitled4_zps8a177e8e.png"/></a>
 
  
 
@@ -71,12 +71,11 @@ python-client的回显，连接建立了
 
  
 
-[![Untitled3](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled3_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled3.png)
-
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/Untitled3_zpsacf466be.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/Untitled3_zpsacf466be.png" width=100% border="0" alt=" photo Untitled3_zpsacf466be.png"/></a>
  
 
 ssh连接之，现在可以干很多事情了~
 
  
 
-[![Untitled5](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled5_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/01/Untitled5.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/01/Untitled5_zpsb85f9a49.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/01/Untitled5_zpsb85f9a49.png" width=100% border="0" alt=" photo Untitled5_zpsb85f9a49.png"/></a>

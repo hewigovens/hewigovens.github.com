@@ -18,7 +18,7 @@ tags:
 
 
 
-[![](http://kernelpanic.im/blog/wp-content/uploads/2012/03/44f79696gw1dq8y001ibcj.jpg)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/44f79696gw1dq8y001ibcj.jpg)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/44f79696gw1dq8y001ibcj_zps7448da15.jpg.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/44f79696gw1dq8y001ibcj_zps7448da15.jpg" border="0" alt=" photo 44f79696gw1dq8y001ibcj_zps7448da15.jpg"/></a>
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](http://kernelpanic.im/blog/wp-content/uploads/2012/03/2.png)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/2.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/2_zps57c1d22f.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/2_zps57c1d22f.png" width=100% border="0" alt=" photo 2_zps57c1d22f.png"/></a>
 
 
 

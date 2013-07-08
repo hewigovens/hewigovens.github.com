@@ -24,7 +24,7 @@ tags:
 
 
 
-[![Wireshark抓包图](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_001-1024x421.png)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_001.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/Selection_001_zpsf8ce642b.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/Selection_001_zpsf8ce642b.png" width=100% border="0" alt=" photo Selection_001_zpsf8ce642b.png"/></a>
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-[![](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_002.png)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_002.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/Selection_002_zpsd445a687.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/Selection_002_zpsd445a687.png" width=100% border="0" alt=" photo Selection_002_zpsd445a687.png"/></a>
 
 
 
@@ -48,7 +48,7 @@ tags:
 
 
 
-[![](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_003.png)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_003.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/Selection_003_zpsa9c89055.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/Selection_003_zpsa9c89055.png" width=100% border="0" alt=" photo Selection_003_zpsa9c89055.png"/></a>
 
 
 
@@ -59,8 +59,7 @@ tags:
 
 
 
-
-[![](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_004.png)](http://kernelpanic.im/blog/wp-content/uploads/2012/03/Selection_004.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2012/03/Selection_004_zpsc8cc3de1.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2012/03/Selection_004_zpsc8cc3de1.png" border="0" alt=" photo Selection_004_zpsc8cc3de1.png"/></a>
 
 
 

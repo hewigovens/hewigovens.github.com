@@ -17,8 +17,9 @@ tags:
 
 0.webqq2盗梦版
 
-![](http://kernelpanic.im/blog/wp-content/uploads/2010/09/webqq2e79b97e6a2a6.jpg)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/09/webqq2e79b97e6a2a6_zps48b5b398.jpg.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/09/webqq2e79b97e6a2a6_zps48b5b398.jpg" width=100% border="0" alt=" photo webqq2e79b97e6a2a6_zps48b5b398.jpg"/></a>
+
 
 1.花生壳远程控制盗梦版（这是很久之前玩出来的）
 
-![](http://kernelpanic.im/blog/wp-content/uploads/2010/09/e88ab1e7949fe5a3b3e8bf9ce7a88be68ea7e588b6.jpg)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2010/09/e88ab1e7949fe5a3b3e8bf9ce7a88be68ea7e588b6_zps2e2c1aef.jpg.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2010/09/e88ab1e7949fe5a3b3e8bf9ce7a88be68ea7e588b6_zps2e2c1aef.jpg" width=100% border="0" alt=" photo e88ab1e7949fe5a3b3e8bf9ce7a88be68ea7e588b6_zps2e2c1aef.jpg"/></a>

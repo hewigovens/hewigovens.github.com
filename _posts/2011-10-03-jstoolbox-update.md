@@ -12,7 +12,7 @@ categories:
 把jsToolbox改成了快捷键触发的方式（Ctrl+Alt+Shift+o），默认是隐藏的；添加了几个bookmarklet， [Faveous](http://www.faveous.com)，[Mark之](http://markzhi.com/)，[Spool](http://getspool.com) 最近的几个不错的收藏、整理、阅读网站
 
 效果图如下：
-[![](http://kernelpanic.im/blog/wp-content/uploads/2011/10/jstoolbox2-300x122.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/10/jstoolbox2.png)
+[![](http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/10/jstoolbox2-300x122.png)](http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/10/jstoolbox2.png)
 
 安装路径：http://userscripts.org/scripts/show/105562
 

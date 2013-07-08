@@ -20,7 +20,7 @@ tags:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb2.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image2.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image2_zps7ede537a.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image2_zps7ede537a.png" width=100% border="0" alt=" photo image2_zps7ede537a.png"/></a>
 
  
 
@@ -28,7 +28,7 @@ tags:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb3.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image3.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image3_zps876dee5a.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image3_zps876dee5a.png" width=100% border="0" alt=" photo image3_zps876dee5a.png"/></a>
 
  
 
@@ -36,7 +36,7 @@ tags:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb4.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image4.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image4_zps8df6fb84.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image4_zps8df6fb84.png" width=100% border="0" alt=" photo image4_zps8df6fb84.png"/></a>
 
  
 
@@ -44,7 +44,7 @@ tags:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb5.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image5.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image5_zps9d857f42.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image5_zps9d857f42.png" width=100% border="0" alt=" photo image5_zps9d857f42.png"/></a>
 
  
 
@@ -52,7 +52,7 @@ tags:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb6.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image6.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image6_zps4f466612.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image6_zps4f466612.png" width=100% border="0" alt=" photo image6_zps4f466612.png"/></a>
 
  
 
@@ -60,7 +60,7 @@ dashboard，widget平铺的效果很华丽；dock就不用说了吧
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb7.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image7.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image7_zps9e6462d1.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image7_zps9e6462d1.png" width=100% border="0" alt=" photo image7_zps9e6462d1.png"/></a>
 
  
 
@@ -68,7 +68,7 @@ dashboard，widget平铺的效果很华丽；dock就不用说了吧
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb8.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image8.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image8_zps22759386.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image8_zps22759386.png" width=100% border="0" alt=" photo image8_zps22759386.png"/></a>
 
  
 
@@ -76,15 +76,14 @@ Application目录下有不少应用程序，其中Textmate被誉为mac下最好�
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb9.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image9.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image9_zpscb0077e2.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image9_zpscb0077e2.png" width=100% border="0" alt=" photo image9_zpscb0077e2.png"/></a>
 
  
 
 不过windows底下有替代品~
 
  
-
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb10.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image10.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image10_zps054db17d.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image10_zps054db17d.png" width=100% border="0" alt=" photo image10_zps054db17d.png"/></a>
 
  
 
@@ -92,7 +91,7 @@ Application目录下有不少应用程序，其中Textmate被誉为mac下最好�
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image_thumb11.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/05/image11.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/05/image11_zps57c9aa16.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/05/image11_zps57c9aa16.png" width=100% border="0" alt=" photo image11_zps57c9aa16.png"/></a>
 
  
 

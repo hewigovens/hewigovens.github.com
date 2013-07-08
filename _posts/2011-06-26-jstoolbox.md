@@ -22,7 +22,7 @@ categories:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/06/image_thumb.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/06/image.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/06/image_zps36d56bd3.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/06/image_zps36d56bd3.png" border="0" alt=" photo image_zps36d56bd3.png"/></a>
 
  
 
@@ -30,7 +30,7 @@ categories:
 
  
 
-[![image](http://kernelpanic.im/blog/wp-content/uploads/2011/06/image_thumb1.png)](http://kernelpanic.im/blog/wp-content/uploads/2011/06/image1.png)
+<a href="http://s750.photobucket.com/user/hewigovens/media/wp-migrate/uploads/2011/06/image1_zps674649fc.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/wp-migrate/uploads/2011/06/image1_zps674649fc.png" border="0" alt=" photo image1_zps674649fc.png"/></a>
 
  
 
