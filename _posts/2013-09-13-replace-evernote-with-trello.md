@@ -24,6 +24,15 @@ Bookmarklet, 快速创建卡片, 除了支持FogBugz/JIRA/Github的case页面外
 
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/trello_card_wide_zps02375d86.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/trello_card_wide_zps02375d86.png" width="100%" border="0" alt=" photo trello_card_wide_zps02375d86.png"/></a>
 
+
+###[Trello This](https://chrome.google.com/webstore/detail/trello-this/llapjidoaciepmfjchefhhachlmehfdl)
+
+Bookmarklet还是有些不爽, 于是我又搞了个Chrome Extension, 主要改进在于:
+
+* 不用输多次App Key了
+* 添加了右键菜单, 不需要SpellBook也可以了
+* 把原来的通知改成了Desktop Notification
+
 ###[Wider Trello Card](http://userstyles.org/styles/92916/wider-trello-card)
 
 细心的同学可能发现了, 上面那张截图似乎有点宽? 这是因为我觉得Trello默认的卡片宽度有点窄, 文字一多就看着不太舒服, 所以就写了这个user style脚本, 把卡片的宽度给加大了200px. 顺带提一句, Trello卡片是支持Markdown的, Evernote至今还不支持.
