@@ -25,7 +25,7 @@ Bookmarklet, 快速创建卡片, 除了支持FogBugz/JIRA/Github的case页面外
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/trello_card_wide_zps02375d86.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/trello_card_wide_zps02375d86.png" width="100%" border="0" alt=" photo trello_card_wide_zps02375d86.png"/></a>
 
 
-###[Trello This](https://chrome.google.com/webstore/detail/trello-this/llapjidoaciepmfjchefhhachlmehfdl)
+###[Card this to Trello](https://chrome.google.com/webstore/detail/trello-this/llapjidoaciepmfjchefhhachlmehfdl)
 
 Bookmarklet还是有些不爽, 于是我又搞了个Chrome Extension, 主要改进在于:
 
