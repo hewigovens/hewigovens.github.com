@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 
-<title>HEWIG XU | SENIOR MAC DEVELOPER</title>
+<title>HEWIG XU | Mac/iOS DEVELOPER</title>
 <style type="text/css">
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary { display:block; }
 audio, canvas, video {
@@ -143,9 +143,10 @@ table {
   border-spacing:0;
 }
 
+body.pdf { color:black; }
 body.pdf a {
-  text-decoration:underline;
-  color:red;
+  text-decoration:none;
+  color:blue;
 }
 body.pdf .container {
   width:1000px;
@@ -213,7 +214,13 @@ body.pdf ol li {
 }
 body.pdf ol li:nth-child(3n) { width:34%; }
 body.pdf ol li:nth-child(1), body.pdf ol li:nth-child(2), body.pdf ol li:nth-child(3) { border-top:none; }
-body.pdf dl { margin:.7em 0 0; }
+body.pdf dl {
+  margin:.7em 0 0;
+  page-break-inside:avoid !important;
+  display:block;
+  width:84%;
+  float:left;
+}
 body.pdf dl strong {
   float:right;
   margin-top:-2em;
@@ -468,19 +475,19 @@ dl em {
     <div class="resume">
         <h1>HEWIG XU</h1>
 
-<h2>SENIOR MAC DEVELOPER</h2>
+<h2>Mac/iOS DEVELOPER</h2>
 
 <blockquote>
   <p><a href="resume_en.pdf">Download PDF</a><br />
   <a href="mailto:hewigovens@gmail.com">hewigovens@gmail.com</a><br />
-  (+86) 158&#160;5057&#160;4028</p>
+  (+86) 185&#160;5173&#160;8248</p>
 </blockquote>
 
 <hr />
 
 <h3 id="profile">Profile</h3>
 
-<p>A geek/vim/git/twitter fan, high technical passion, believe in KISS &amp; DRY principal. Love <a href="http://book.douban.com/people/xutaozero21/collect">reading</a> and exploring staff under the hood. Maintain a personal technical <a href="http://kernelpanic.im">blog</a> &amp; <a href="http://wiki.kernelpanic.im">wiki</a>. One of GoAgent authors.</p>
+<p>A geek/vim/git/twitter fan, high technical passion, believe in KISS &amp; DRY principal. Love <a href="http://book.douban.com/people/xutaozero21/collect">reading</a> and exploring staff under the hood. Like to build tools to improve productivity. Maintain a personal technical <a href="http://kernelpanic.im">blog</a> &amp; <a href="http://wiki.kernelpanic.im">wiki</a>. One of GoAgent authors.</p>
 
 <hr />
 
@@ -518,19 +525,25 @@ dl em {
 <h3 id="experience">Experience</h3>
 
 <dl>
-<dt>Trend Micro China Development Center (2011 ~ now)</dt>
+<dt>Alibaba.com (2013-10 ~ now)</dt>
+<dd>
+<p><em>Kanbox iOS/Mac</em>
+<strong>2013,10-now</strong>
+Participate in new Kanbox iOS version development; Maintain and add new feature for kanbox Mac Client.</p>
+</dd>
+
+<dt>Trend Micro China Development Center (2011 ~ 2013-10)</dt>
+<dd>
+<p><em>Trend Micro Titanium for Mac</em>
+<strong>2011,12-2013,10</strong>
+Participate in project iTis 2.0/3.0, new iCore Integration, Trend Micro Toolbar rating server, Mountain Lion support, Code sign binaries and installer package, refactor build process,Design and implement SPN Feedback module/Debug log uploading.</p>
+</dd>
+
 <dd>
 <p><em>Safesync Mac Client</em>
 <strong>2011,8-2011,12</strong></p>
 
 <p>Learn and maintain Safesync(Dropbox like App) Mac client, bugfix.</p>
-</dd>
-
-<dd>
-<p><em>Trend Micro Titanium for Mac</em>
-<strong>2011,12-now</strong>
-Participate in project iTis 2.0/3.0, new iCore Integration, Trend Micro Toolbar rating server, Mountain Lion support, Code sign binaries and installer package, refactor build process,
-Design and implement SPN Feedback module/Debug log uploading.</p>
 </dd>
 
 <dt>Github, personal weekend projects (2010 ~ now)</dt>
@@ -542,6 +555,11 @@ My github <a href="http://resume.github.io/?hewigovens">resume</a></p>
 <dd>
 <p><em>GoAgent iOS</em>
 <a href="https://github.com/goagent/goagent-ios">GoAgent for iOS</a>: A standalone App, A notification center widget, A SBSettings Toggle. cross-compile gevent for iOS.</p>
+</dd>
+
+<dd>
+<p><em>PackageUninstaller/CopyMate</em>
+Mac productivity Apps. PackageUninstaller is a general uninstaller for Apple pkg files. CopyMate is a clipboard enhancement tool.</p>
 </dd>
 </dl>
 
@@ -561,7 +579,7 @@ My github <a href="http://resume.github.io/?hewigovens">resume</a></p>
 
 <h3 id="footer">Footer</h3>
 
-<p>Powered by <a href="https://github.com/there4/markdown-resume">markdown-resume project</a></p>
+<p>Created by <a href="https://github.com/there4/markdown-resume">markdown-resume project</a> and <a href="https://code.google.com/p/wkhtmltopdf">wkhtmltopdf</a></p>
 
 <hr />
 
