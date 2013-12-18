@@ -7,6 +7,11 @@ tags: ["mac", "OSX", "package", "uninstaller"]
 ---
 {% include JB/setup %}
 
+###2013/12/18 Update
+
+Apple的EvenBetterAuthorizationSample的例子(非Sandbox)用NSXPCConnection和SMJobBless, 效果一样, NSXPCConnection相当于xpc的Cocoa接口, 不过10.8之后才能用.
+
+###End
 
 在Mac下你肯定有过这种体验: 通过Installer安装的有些App并没有提供卸载工具; 简单的从/Applications移除在MAS安装的App其实会残留很多文件.
 
