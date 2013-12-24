@@ -1,4 +1,11 @@
-ME865入手记
+---
+layout: post
+title: "ME865入手记"
+description: ""
+category: 
+tags: ["Mac","osx","MBP"]
+---
+{% include JB/setup %}
 
 这是我的第二台笔记本，早在九月份就想买rMBP了，后来看了下[MacRumors](http://buyersguide.macrumors.com/)的消息，决定等新款，然后就等到了现在。由于是第三次在团里买东西了，所以星期天很快就下了单，周二到手。
 

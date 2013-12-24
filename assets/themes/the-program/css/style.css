@@ -564,8 +564,9 @@ pre {
   margin-bottom: 1.625em;
 }
 pre {
+  /* with typo.css
   color: #f2f2f2;
-  background-color: #393939;
+  background-color: #393939;*/
   border: 1px solid #393939;
   font-family: consolas, monaco, monospace;
   margin-left: 0;
@@ -662,7 +663,9 @@ pre {
   border-bottom: 1px dashed #d08688;
 }
 .unit-article blockquote {
-  border-left: 1em solid rgba(21, 25, 25, 0.8);
+  /*
+  with typo.css
+  border-left: 1em solid rgba(21, 25, 25, 0.8);*/
   padding-left: 1em;
 }
 .unit-article blockquote p {
