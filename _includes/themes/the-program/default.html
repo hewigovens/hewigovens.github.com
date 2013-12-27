@@ -22,7 +22,6 @@
 				<nav class="nav-global">
 					<ul>
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
-                        <li class="search">Type to Search:</li>
                         <li class="search">
                             <script type="text/javascript">
                                 var custom_search= function() {
@@ -33,7 +32,7 @@
                                 }
                             </script>
                             <form onsubmit="custom_search()">
-                                    <input id="q" type="text" value="" name="q" maxlength="40">
+                                <input id="q" type="search" value="" name="q" placeholder="Type to search" maxlength="50">
                             </form>
                         </li>
 						<li class="archive"><a href="/archive.html">archive</a></li>
@@ -59,7 +58,7 @@
 		<div class="unit-foot">
 			<div class="unit-inner unit-foot-inner">
 				<div class="misc vcard">
-					<h4>about</h4>
+					<h4>About</h4>
                     <p class="licence" style="font-size:13px">{{ site.author.introduction }} </br>{{site.tagline}}</p>
 					<ul>
 						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>

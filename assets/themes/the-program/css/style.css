@@ -283,6 +283,10 @@ input[type="search"] {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
+  padding-left: 25px;
+  background: url("/assets/themes/the-program/skin/search.png") no-repeat 1px 1px;
+  background-color: white;
+  font-size: 10pt;
 }
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -1484,4 +1488,9 @@ hr {
 .right {
   *display: inline;
   float: right;
+}
+.fixed-span{
+  text-align: right;
+  display: inline-block;
+  width: 100px;
 }
