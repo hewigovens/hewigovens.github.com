@@ -459,6 +459,7 @@ dl,
 img {
   margin-top: 0;
   margin-bottom: 1.625em;
+  max-width: 100%;
 }
 small,
 .small,
