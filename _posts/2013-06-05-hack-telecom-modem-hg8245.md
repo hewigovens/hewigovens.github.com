@@ -50,3 +50,7 @@ tags: ["hack", "telecom"]
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/hw8245_network_settings_zps575cb968.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/hw8245_network_settings_zps575cb968.png" border="0" alt=" photo hw8245_network_settings_zps575cb968.png" width=100%/></a>
 
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/hw8245_network_settings2_zps6022b285.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/hw8245_network_settings2_zps6022b285.png" border="0" alt=" photo hw8245_network_settings2_zps6022b285.png" width=100%/></a>
+
+###Update
+
+`hw_ctree.xml`里有个`TotalTerminalNumber`配置项, 是用来限制同时上网的终端数, 默认是4, 改成8就允许8台电脑同时上网了.
