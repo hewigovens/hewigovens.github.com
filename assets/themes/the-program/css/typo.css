@@ -168,13 +168,18 @@ mark {
 }
 
 /* 代码片断 */
+p code, li code{
+    color: #000000;
+    background-color:#f8f8ff;
+}
 pre, code {
     font-family: "Courier New", Courier, monospace;
+    color: #FFFFFF;
     white-space: pre-wrap;
     word-wrap: break-word;
 }
 pre {
-    background: #f8f8f8;
+    background: #211E1E;
     border:1px solid #ddd;
     padding: 1em 1.5em;
 }
@@ -270,7 +275,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .typo ol, .typo-ol {
     list-style: decimal;
-    margin-left: 1.9em;
+    /* margin-left: 1.9em; */
 }
 .typo li ul, .typo li ol, .typo-ul ul, .typo-ul ol, .typo-ol ul, .typo-ol ol {
     margin-top: 0;
