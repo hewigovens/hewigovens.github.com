@@ -218,7 +218,9 @@ SBSettings Toggle/Preference Bundle/NotificationCenter Widget/FlipSwtich
 
 CydiaSubstrate则是一个代码注入平台, 动态加载并注入dylib, 一般会和classdump/method swizzling配合, 具体可以看看它的[文档](http://www.cydiasubstrate.com/inject/darwin/), iPhone Dev Wiki上的[介绍](http://iphonedevwiki.net/index.php/MobileSubstrate)也不错.
 
-更多的一些Tweak例子可以参考[Ryan Petrich's Tweak Week](http://tweakweek.com/)
+更多的一些Tweak例子可以参考[Ryan Petrich's Tweak Week](http://tweakweek.com/).
+
+#####Updates: 还可以试试[iOSOpenDev](http://www.iosopendev.com/), 我最早装过它的公测版, 当时有bug没用起来, 现在看上去可用多了.
 
 ####关于Root privilege
 
@@ -290,6 +292,7 @@ origin_SCDynamicStoreCopyProxies = &SCDynamicStoreCopyProxies;
 
 这种做法也可以用来判断OS版本, 比如某个API是5.0之后加入的, 那么之前的版本取地址将会得到空值.
 
+#####Updates: 还可以把这个宏给undef掉~
 
 ###bypass sandbox
 
