@@ -7,13 +7,17 @@ tags: ['iOS','jailbreak']
 ---
 {% include JB/setup %}
 
-这是一篇科普性质的文章, 内容不包括:
+这是一篇科普性质的文章, 内容主要包括:
 
-* 什么是越狱?
-* 为什么要越狱?
-* 如何越狱?
+* 基本背景知识
+* 开发环境
+* Root权限
+* launchd
+* bypass iPhone_NA/sandbox/codesign
+* SSH Tips
+* Cydia Hosting
 
-如果你对这个Topic已经足够了解, 剩下的也不用看了:)
+如果你对这些Topic已经足够了解, 剩下的也不用看了:)
 
 我最早接触越狱大概是在iPhoneOS(4.0之后才改名成iOS)3.1.3时代, 印象比较深的是[@comex](https://twitter.com/comex)的[Spirit](https://github.com/comex/spirit),经典的一键完美越狱; geohot还很活跃, 一己之力搞出[Limera1n](http://theiphonewiki.com/wiki/Limera1n); 中文社区则有著名的[GFWInterpreter](https://code.google.com/p/gfwinterceptor/)...
 
