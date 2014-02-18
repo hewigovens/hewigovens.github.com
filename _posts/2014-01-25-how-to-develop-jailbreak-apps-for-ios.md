@@ -220,6 +220,8 @@ CydiaSubstrate则是一个代码注入平台, 动态加载并注入dylib, 一般
 
 更多的一些Tweak例子可以参考[Ryan Petrich's Tweak Week](http://tweakweek.com/).
 
+#####Updates: 创建Tweak的Tweak: [Flex 2](http://www.idownloadblog.com/2014/01/29/flex-2-create-your-own-jailbreak-tweaks-on-ios-7/)
+
 #####Updates: 还可以试试[iOSOpenDev](http://www.iosopendev.com/), 我最早装过它的公测版, 当时有bug没用起来, 现在看上去可用多了.
 
 ####关于Root privilege
