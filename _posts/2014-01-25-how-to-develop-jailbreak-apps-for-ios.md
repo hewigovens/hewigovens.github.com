@@ -43,6 +43,8 @@ iOS下可用的[Framework列表](http://theiphonewiki.com/wiki//System/Library/F
 
 正统的iOS App开发直接看Apple的[iOS App Programming Guide](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)即可. 
 
+#####Updates关于动态库, SO上这个[回答](https://stackoverflow.com/questions/4733847/can-you-build-dynamic-libraries-for-ios-and-load-them-at-runtime)的很不错
+
 一般而言, 你需要一台Mac进行正儿八经的开发, iDevice不是必需的. 但如果是开发越狱App, 你需要一台越狱后的iDevice, Mac反而不是必需的.
 
 主要的开发环境有两种:
