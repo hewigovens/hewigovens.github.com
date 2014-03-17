@@ -43,6 +43,8 @@ iOS下可用的[Framework列表](http://theiphonewiki.com/wiki//System/Library/F
 
 正统的iOS App开发直接看Apple的[iOS App Programming Guide](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)即可. 
 
+#####Updates关于动态库, SO上这个[回答](https://stackoverflow.com/questions/4733847/can-you-build-dynamic-libraries-for-ios-and-load-them-at-runtime)的很不错
+
 一般而言, 你需要一台Mac进行正儿八经的开发, iDevice不是必需的. 但如果是开发越狱App, 你需要一台越狱后的iDevice, Mac反而不是必需的.
 
 主要的开发环境有两种:
@@ -214,7 +216,7 @@ MobileSubstrate插件, 现在叫[CydiaSubstrate](http://www.cydiasubstrate.com/)
 一般意义上的tweak大部分都是这类.
 
 SBSettings Toggle/Preference Bundle/NotificationCenter Widget/FlipSwtich
-这些插件都是动态库. 关于动态库, 推荐Apple的这篇:[Dynamic Library Programming Topics](https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/DynamicLibraries/000-Introduction/Introduction.html).
+这些插件都是动态库. 关于动态库, 推荐Apple的这篇:[Dynamic Library Programming Topics](https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/DynamicLibraries/000-Introduction/Introduction.html), 和这篇:[Code Loading Programming Topics](https://developer.apple.com/library/mac/documentation/cocoa/conceptual/LoadingCode/)
 
 CydiaSubstrate则是一个代码注入平台, 动态加载并注入dylib, 一般会和classdump/method swizzling配合, 具体可以看看它的[文档](http://www.cydiasubstrate.com/inject/darwin/), iPhone Dev Wiki上的[介绍](http://iphonedevwiki.net/index.php/MobileSubstrate)也不错.
 
