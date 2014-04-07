@@ -34,7 +34,7 @@ tags: ["OS X", "Dock"]
 
 快速切换界面
 
-图标是一个叫萌萌的萌妹子帮我设计的, 另外为了捞回开发者账号的钱, GhostTile定价9.99$, 不过实际上没有试用时间的限制, 做法是Sublime差不多, 最多提示一下.
+图标是一个叫萌萌的萌妹子帮我设计的, 另外为了捞回开发者账号的钱, GhostTile定价9.99$, 不过实际上没有试用时间的限制, 做法和Sublime差不多, 最多提示一下.
 
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/ghosttile_promote_alert_zps914f0dae.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/ghosttile_promote_alert_zps914f0dae.png" max-width=100% border="0" alt=" photo ghosttile_promote_alert_zps914f0dae.png"/></a>
 
