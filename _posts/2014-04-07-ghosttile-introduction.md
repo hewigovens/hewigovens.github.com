@@ -9,9 +9,9 @@ tags: ["OS X", "Dock"]
 
 这个想法2月底就冒出来了, 当时快速的验证了下, 还是比较可行的. 最近利用业余时间折腾了下, 发布了第一个正式beta版.
 
-如果你是Dock隐藏党或者Afred/Launchbar党, 可能会觉得没什么用. 但是每个人的习惯和用法不一样, 我从去年就踏上了自制各种工具的不归路, 所以就按自己的习惯写了一个.
+如果你是Dock隐藏党或者Alfred/Launchbar党, 可能会觉得没什么用. 但是每个人的习惯和用法不一样, 我从去年就踏上了自制各种工具的不归路, 所以就按自己的习惯写了一个.
 
-我习惯于⌘+Tab, 习惯于正下方的Dock, 如果程序开的多, ⌘+Tab切起来效率就直线性下降了. 
+我习惯于Command-Tab, 习惯于正下方的Dock, 如果程序开的多, Command-Tab切起来效率就直线性下降了. 
 对于有些实际上只在后台使用的应用, 比如Vox, TunnelBear. 或者是只需要偶尔切换到前台的如词典, HockeyApp之类的, 希望它们不要出现在⌘+Tab列表里但是又能够快速切到前台.
 
 <a href="http://s750.photobucket.com/user/hewigovens/media/Freyr/Blog/boincmanager_dock_icon_zps3c157cec.png.html" target="_blank"><img src="http://i750.photobucket.com/albums/xx144/hewigovens/Freyr/Blog/boincmanager_dock_icon_zps3c157cec.png" border="0" alt=" photo boincmanager_dock_icon_zps3c157cec.png"/></a>
